@@ -1,1 +1,17 @@
-/* Add CSS Styling */
+#anotherid,
+.pink.cooler {
+    font-size: 24px;
+}
+.pink{
+    font-family: Verdana, 'DejaVu Sans',sans-serif;
+    background-color: lightpink;
+}
+#oneid{
+    color: blue;
+    font-size: 36px;
+}
+#anotherid{
+    background-color: lightgreen;
+    font-weight: bold;
+}
+
