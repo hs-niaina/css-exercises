@@ -1,1 +1,12 @@
-/* Add CSS Styling */
+.FirstButton{
+    background-color: black;
+    color: white;
+}
+.SecondButton{
+    background-color: yellow;
+}
+.FirstButton,
+.SecondButton{
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+}
